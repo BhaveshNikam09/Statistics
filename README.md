@@ -2,7 +2,7 @@
      This repository contains Jupyter Notebooks created for practicing and revising key statistical concepts. These notebooks include theoretical explanations and Python code examples to help understand various statistical methods and their applications.
 
 ### Contents
-#### 1. Probability Distributions
+### 1. Probability Distributions
 #### Discrete Distributions (Probability Mass Functions - PMFs):
       1..Uniform Distribution
       2..Bernoulli Distribution
@@ -19,7 +19,7 @@
 
 ### Includes practical Python examples using libraries like scipy.stats.
 
-#### 2. Statistical Tests
+### 2. Statistical Tests
 
 1.Z-Test:
 
