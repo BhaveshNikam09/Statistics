@@ -22,38 +22,44 @@
 #### 2. Statistical Tests
 
 1.Z-Test:
+
    Hypothesis testing for population mean when variance is known.
 
 2.T-Test:
-Hypothesis testing for population mean when variance is unknown.
+
+   Hypothesis testing for population mean when variance is unknown.
  
 3.Chi-Square Test:
-Used for categorical data and testing relationships between variables.
+
+   Used for categorical data and testing relationships between variables.
 
 4.ANOVA:
-Analysis of variance to compare means across multiple groups.
+
+   Analysis of variance to compare means across multiple groups.
 
 #### Explanation of use cases and Python examples for implementation.
-3. Descriptive Statistics
+### 3.Descriptive Statistics
 
-1.Measures of Central Tendency:
+#### 1.Measures of Central Tendency:
 
 Mean, Median, Mode
 
-2.Measures of Spread:
+#### 2.Measures of Spread:
 
 Variance, Standard Deviation, Range
 
-3.Interquartile Range (IQR):
+#### 3.Interquartile Range (IQR):
 
 Explanation of detecting outliers using 
 
-lower fence=Q1−1.5×IQR  
+1.lower fence=Q1−1.5×IQR  
 
-upper fence=Q3+1.5×IQR.
+2.upper fence=Q3+1.5×IQR.
 
-4. Inferential Statistics
+#### 4.Inferential Statistics
 
 1.Confidence Intervals
+
 2.Hypothesis Testing
+
 3.p-values and significance levels
